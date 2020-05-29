@@ -58,10 +58,10 @@ terminal-font: "Fixed Regular 13"
 + hbox {
 		top = 100%-35
 		left = 20%
-		+ label {text = "Enter: " font = "Sans 12" color = "#4c4c4c" align = "left"}
-		+ label {text = "Boot Selection     " font = "Sans 12" color = "#1692d0" align = "left"}
+		+ label {text = "BelÃ©pÃ©s: " font = "Sans 12" color = "#4c4c4c" align = "left"}
+		+ label {text = "Boot SzekciÃ³     " font = "Sans 12" color = "#1692d0" align = "left"}
 		+ label {text = "E: " font = "Sans 12" color = "#4c4c4c" align = "left"}
-		+ label {text = "Edit Selection     " font = "Sans 12" color = "#1692d0" align = "left"}
+		+ label {text = "SzekciÃ³ szerkesztÃ©se     " font = "Sans 12" color = "#1692d0" align = "left"}
 		+ label {text = "C: " font = "Sans 12" color = "#4c4c4c" align = "left"}
-		+ label {text = "GRUB Commandline" font = "Sans 12" color = "#1692d0" align = "left"}
+		+ label {text = "GRUB Paranccsor" font = "Sans 12" color = "#1692d0" align = "left"}
 }
